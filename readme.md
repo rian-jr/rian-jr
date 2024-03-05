@@ -20,4 +20,5 @@ Meu nome é Rian, e sou estudande de análise de desenvolvimento de sistemas, al
 
 <img src= "https://i.makeagif.com/media/11-23-2017/V0sTjo.gif"
 title="Olá" width="335" height="243" align="left" alt="Até mais!">
+<p>Até logo!</p>
 
