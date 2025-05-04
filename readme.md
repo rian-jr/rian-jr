@@ -1,6 +1,6 @@
 # Seja bem vindo amigo! 😁
 
-Meu nome é Rian, e sou estudande de análise de desenvolvimento de sistemas, além de também ser aluno da OneBitCode na categoria full-stack em Java Script🤟🏻
+Meu nome é Rian, e sou estudande de análise de desenvolvimento de sistemas!🤟🏻
 ## Tecnologias já aprendidas:
 
 ![HTML5](https://img.shields.io/badge/-HTML5-232323?style=flat&labelColor=E34F26&logo=html5&logoColor=ffffff) 
